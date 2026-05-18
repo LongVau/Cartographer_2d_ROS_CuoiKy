@@ -6,5 +6,4 @@ Mở terminal và chạy các lệnh sau để cập nhật hệ thống và cà
 sudo apt update
 sudo apt install ros-humble-cartographer ros-humble-cartographer-ros
 ```
-
-đổi tên thàng cartographer_2d trước khi chạy
+Tải về và đổi tên thàng cartographer_2d
